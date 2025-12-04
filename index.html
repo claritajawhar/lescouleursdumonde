@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Les couleurs du monde</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Inter:wght@300;400;500;600&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container site-header__inner">
+      <div>
+        <h1 class="site-title">Les couleurs du monde</h1>
+        <p class="site-tagline">Un voyage minimaliste à travers traditions et cultures</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="country-grid-section">
+      <h2 class="section-title">Explorer par pays</h2>
+      <p class="section-subtitle">
+        Cliquez sur un pays pour découvrir quelques-unes de ses couleurs, rituels et traditions du quotidien.
+      </p>
+
+      <div class="country-grid">
+        <!-- Cards are injected here by index.js using data.js -->
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container site-footer__inner">
+      <span>Les couleurs du monde</span>
+      <span class="site-footer__divider">•</span>
+      <span>Traditions du monde dans une mise en page épurée et apaisante</span>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="index.js"></script>
+</body>
+</html>

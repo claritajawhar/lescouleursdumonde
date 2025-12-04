@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Les couleurs du monde – Pays</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Inter:wght@300;400;500;600&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header site-header--subpage">
+    <div class="container site-header__inner">
+      <a href="index.html" class="site-logo-link">
+        <span class="site-logo-mark"></span>
+        <span class="site-logo-text">Les couleurs du monde</span>
+      </a>
+      <nav class="site-nav">
+        <a href="index.html" class="site-nav__link">Tous les pays</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container country-layout">
+    <aside class="country-sidebar">
+      <button type="button" class="back-button" onclick="history.back()">
+        ← Retour
+      </button>
+
+      <div class="sidebar-block">
+        <h2 class="sidebar-title">Aller à un pays</h2>
+        <select id="country-select" class="country-select"></select>
+      </div>
+    </aside>
+
+    <article class="country-article">
+      <section class="country-hero">
+        <div class="country-hero__text">
+          <p class="country-hero__eyebrow">Culture et tradition</p>
+          <h1 class="country-hero__title" data-country-name></h1>
+          <p class="country-hero__intro" data-country-intro></p>
+        </div>
+        <div class="country-hero__image">
+          <img src="" alt="" data-country-hero-image />
+        </div>
+      </section>
+
+      <section id="country-sections" class="country-sections">
+        <!-- Cultural sections injected here by country.js -->
+      </section>
+
+      <nav class="country-pager">
+        <a href="#" class="country-pager__link" data-prev-country></a>
+        <a href="#" class="country-pager__link country-pager__link--next" data-next-country></a>
+      </nav>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container site-footer__inner">
+      <span>Les couleurs du monde</span>
+      <span class="site-footer__divider">•</span>
+      <span>Découvrez les cultures avec clarté et sérénité</span>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="country.js"></script>
+</body>
+</html>
