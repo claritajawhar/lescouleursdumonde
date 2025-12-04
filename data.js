@@ -503,26 +503,26 @@ const countriesData = {
     cardImage: "images/kenya-card.jpg",
     heroImage: "images/kenya-hero.jpg",
     intro:
-      "Kenyan life is shaped by markets, music, and tea breaks.",
+      "La vie kenyane est façonnée par les marchés, la musique et les pauses thé.",
     sections: [
       {
-        smallTitle: "Matatu Art",
-        text: "Colorful minibuses pulse with music and hand-painted designs.",
+        smallTitle: "Art des matatus",
+        text: "Les minibus colorés vibrent au rythme de la musique et de dessins peints à la main.",
         image: "images/kenya-matatu.jpg",
       },
       {
-        smallTitle: "Chai Time",
-        text: "Sweet milky tea is shared at home and work.",
+        smallTitle: "Heure du chai",
+        text: "Un thé au lait sucré est partagé à la maison comme au travail.",
         image: "images/kenya-chai.jpg",
       },
       {
-        smallTitle: "Market Days",
-        text: "Open-air markets bustle with produce, crafts, and greetings.",
+        smallTitle: "Jours de marché",
+        text: "Les marchés en plein air débordent de produits, d’artisanat et de salutations.",
         image: "images/kenya-market.jpg",
       },
       {
-        smallTitle: "Storytelling",
-        text: "Evenings bring songs and tales around village fires.",
+        smallTitle: "Contes au village",
+        text: "Les soirées rassemblent chants et histoires autour des feux de village.",
         image: "images/kenya-story.jpg",
       },
     ],
@@ -530,30 +530,30 @@ const countriesData = {
 
   south_africa: {
     id: "south_africa",
-    name: "South Africa",
+    name: "Afrique du Sud",
     cardImage: "images/south-africa-card.jpg",
     heroImage: "images/south-africa-hero.jpg",
     intro:
-      "South Africa’s culture is a blend of language, music, and outdoor gatherings.",
+      "La culture sud-africaine est un mélange de langues, de musique et de rassemblements en plein air.",
     sections: [
       {
         smallTitle: "Braai",
-        text: "Barbecue tradition for friends and family in gardens or parks.",
+        text: "Une tradition de barbecue réunissant amis et famille dans les jardins ou les parcs.",
         image: "images/south-africa-braai.jpg",
       },
       {
-        smallTitle: "Gumboot Dance",
-        text: "Mining history inspires energetic boot-stomping dance.",
+        smallTitle: "Danse Gumboot",
+        text: "L’histoire minière inspire cette danse énergique aux bottes frappées.",
         image: "images/south-africa-gumboot.jpg",
       },
       {
-        smallTitle: "Township Jazz",
-        text: "Music clubs and street bands play late into the night.",
+        smallTitle: "Jazz des townships",
+        text: "Les clubs et les groupes de rue jouent tard dans la nuit.",
         image: "images/south-africa-jazz.jpg",
       },
       {
         smallTitle: "Heritage Day",
-        text: "September holiday for celebrating cultural diversity.",
+        text: "La fête de septembre célébrant la diversité culturelle.",
         image: "images/south-africa-heritage.jpg",
       },
     ],
@@ -561,30 +561,30 @@ const countriesData = {
 
   thailand: {
     id: "thailand",
-    name: "Thailand",
+    name: "Thaïlande",
     cardImage: "images/thailand-card.jpg",
     heroImage: "images/thailand-hero.jpg",
     intro:
-      "Thailand is known for temple festivals, street food, and water rituals.",
+      "La Thaïlande est connue pour ses festivals de temples, sa cuisine de rue et ses rituels d’eau.",
     sections: [
       {
         smallTitle: "Songkran",
-        text: "New Year’s water festival with playful street splashing.",
+        text: "Le Nouvel An célébré par des jeux d’eau dans les rues.",
         image: "images/thailand-songkran.jpg",
       },
       {
-        smallTitle: "Floating Markets",
-        text: "Vendors sell fruit and snacks from boats on canals.",
+        smallTitle: "Marchés flottants",
+        text: "Les vendeurs proposent fruits et collations depuis leurs bateaux.",
         image: "images/thailand-market.jpg",
       },
       {
-        smallTitle: "Muay Thai",
-        text: "Traditional boxing matches draw crowds to local arenas.",
+        smallTitle: "Muay Thaï",
+        text: "Les combats traditionnels attirent des foules dans les arènes locales.",
         image: "images/thailand-muaythai.jpg",
       },
       {
-        smallTitle: "Temple Offerings",
-        text: "Flowers and incense are offered at Buddhist temples.",
+        smallTitle: "Offrandes aux temples",
+        text: "Fleurs et encens sont déposés dans les temples bouddhistes.",
         image: "images/thailand-temple.jpg",
       },
     ],
@@ -592,30 +592,30 @@ const countriesData = {
 
   united_arab_emirates: {
     id: "united_arab_emirates",
-    name: "United Arab Emirates",
+    name: "Émirats arabes unis",
     cardImage: "images/uae-card.jpg",
     heroImage: "images/uae-hero.jpg",
     intro:
-      "UAE culture fuses desert roots, pearl diving, and skyscraper innovation.",
+      "La culture des Émirats mêle racines désertiques, plongée perlière et innovation urbaine.",
     sections: [
       {
-        smallTitle: "Falconry",
-        text: "Falconry is a prized heritage sport and family pastime.",
+        smallTitle: "Fauconnerie",
+        text: "Un sport patrimonial apprécié et une activité familiale.",
         image: "images/uae-falcon.jpg",
       },
       {
         smallTitle: "Majlis",
-        text: "Cushioned rooms host tea, dates, and conversation.",
+        text: "Des salons coussinés accueillent thé, dattes et conversations.",
         image: "images/uae-majlis.jpg",
       },
       {
-        smallTitle: "Pearl Diving",
-        text: "Historic pearl diving shaped coastal communities.",
+        smallTitle: "Plongée aux perles",
+        text: "Une tradition historique ayant façonné les communautés côtières.",
         image: "images/uae-pearl.jpg",
       },
       {
-        smallTitle: "National Day",
-        text: "December celebrations include fireworks and parades.",
+        smallTitle: "Fête nationale",
+        text: "Décembre illumine les rues avec feux d’artifice et parades.",
         image: "images/uae-national.jpg",
       },
     ],
@@ -623,30 +623,30 @@ const countriesData = {
 
   ethiopia: {
     id: "ethiopia",
-    name: "Ethiopia",
+    name: "Éthiopie",
     cardImage: "images/ethiopia-card.jpg",
     heroImage: "images/ethiopia-hero.jpg",
     intro:
-      "Ethiopia’s culture is built on coffee, markets, and ancient festivals.",
+      "La culture éthiopienne repose sur le café, les marchés et les festivals anciens.",
     sections: [
       {
-        smallTitle: "Coffee Ceremony",
-        text: "Green beans are roasted, ground, and brewed for guests.",
+        smallTitle: "Cérémonie du café",
+        text: "Les grains verts sont torréfiés, moulus et préparés pour les invités.",
         image: "images/ethiopia-coffee.jpg",
       },
       {
         smallTitle: "Timkat",
-        text: "Epiphany festival features processions and river baptisms.",
+        text: "La fête de l'Épiphanie avec processions et baptêmes dans les rivières.",
         image: "images/ethiopia-timkat.jpg",
       },
       {
-        smallTitle: "Injera Meals",
-        text: "Sourdough flatbread is shared from large communal platters.",
+        smallTitle: "Repas d’injera",
+        text: "Le pain fermenté est partagé depuis de grands plateaux communs.",
         image: "images/ethiopia-injera.jpg",
       },
       {
-        smallTitle: "Market Trading",
-        text: "Open-air markets are central to daily life.",
+        smallTitle: "Marchés traditionnels",
+        text: "Les marchés en plein air sont centraux dans la vie quotidienne.",
         image: "images/ethiopia-market.jpg",
       },
     ],
@@ -658,26 +658,26 @@ const countriesData = {
     cardImage: "images/vietnam-card.jpg",
     heroImage: "images/vietnam-hero.jpg",
     intro:
-      "Vietnam’s traditions center on street food, ancestor altars, and seasonal festivals.",
+      "Les traditions vietnamiennes tournent autour de la cuisine de rue, des autels ancestraux et des festivals saisonniers.",
     sections: [
       {
-        smallTitle: "Tet",
-        text: "Lunar New Year marked by home altars and red envelopes.",
+        smallTitle: "Têt",
+        text: "Le Nouvel An lunaire marqué par les autels familiaux et les enveloppes rouges.",
         image: "images/vietnam-tet.jpg",
       },
       {
-        smallTitle: "Pho Breakfast",
-        text: "Morning soup shared at street stalls and markets.",
+        smallTitle: "Petit-déjeuner de phở",
+        text: "Une soupe matinale servie dans les marchés et stands de rue.",
         image: "images/vietnam-pho.jpg",
       },
       {
-        smallTitle: "Water Puppets",
-        text: "Puppet theater tells folk tales over water stages.",
+        smallTitle: "Marionnettes sur l’eau",
+        text: "Le théâtre raconte des contes populaires sur des scènes aquatiques.",
         image: "images/vietnam-puppet.jpg",
       },
       {
-        smallTitle: "Cyclo Rides",
-        text: "Pedicab rides offer city views and local stories.",
+        smallTitle: "Balades en cyclo",
+        text: "Les cyclo-pousses offrent vues urbaines et histoires locales.",
         image: "images/vietnam-cyclo.jpg",
       },
     ],
@@ -685,30 +685,30 @@ const countriesData = {
 
   united_kingdom: {
     id: "united_kingdom",
-    name: "United Kingdom",
+    name: "Royaume-Uni",
     cardImage: "images/uk-card.jpg",
     heroImage: "images/uk-hero.jpg",
     intro:
-      "UK culture is a blend of tea, humor, and public parks.",
+      "La culture britannique mélange thé, humour et parcs publics.",
     sections: [
       {
-        smallTitle: "Afternoon Tea",
-        text: "Tea with scones and sandwiches in homes and cafés.",
+        smallTitle: "Afternoon tea",
+        text: "Le thé accompagné de scones et sandwichs dans les maisons et cafés.",
         image: "images/uk-tea.jpg",
       },
       {
-        smallTitle: "Pub Quiz",
-        text: "Weekly trivia nights at local pubs.",
+        smallTitle: "Pub quiz",
+        text: "Des soirées quiz hebdomadaires dans les pubs locaux.",
         image: "images/uk-pub.jpg",
       },
       {
-        smallTitle: "Carnival",
-        text: "Notting Hill Carnival celebrates Caribbean heritage.",
+        smallTitle: "Carnaval",
+        text: "Le Notting Hill Carnival célèbre l’héritage caribéen.",
         image: "images/uk-carnival.jpg",
       },
       {
-        smallTitle: "Park Picnics",
-        text: "Parks host picnics and music in summer.",
+        smallTitle: "Pique-niques au parc",
+        text: "Les parcs accueillent pique-niques et musique estivale.",
         image: "images/uk-park.jpg",
       },
     ],
@@ -716,30 +716,30 @@ const countriesData = {
 
   indonesia: {
     id: "indonesia",
-    name: "Indonesia",
+    name: "Indonésie",
     cardImage: "images/indonesia-card.jpg",
     heroImage: "images/indonesia-hero.jpg",
     intro:
-      "Indonesia mixes island rituals, batik art, and volcanic landscapes.",
+      "L’Indonésie mélange rituels insulaires, art du batik et paysages volcaniques.",
     sections: [
       {
-        smallTitle: "Wayang Kulit",
-        text: "Shadow puppet plays tell epic stories.",
+        smallTitle: "Wayang kulit",
+        text: "Les marionnettes d’ombre racontent des récits épiques.",
         image: "images/indonesia-wayang.jpg",
       },
       {
-        smallTitle: "Batik Craft",
-        text: "Wax-resist dyed fabrics express regional identity.",
+        smallTitle: "Art du batik",
+        text: "Les tissus teints à la cire expriment l’identité régionale.",
         image: "images/indonesia-batik.jpg",
       },
       {
-        smallTitle: "Rice Harvest",
-        text: "Communal harvests and ceremonies mark rice planting.",
+        smallTitle: "Récolte du riz",
+        text: "Les récoltes et cérémonies communautaires rythment la culture du riz.",
         image: "images/indonesia-rice.jpg",
       },
       {
-        smallTitle: "Temple Offerings",
-        text: "Daily flower offerings decorate homes and shrines.",
+        smallTitle: "Offrandes des temples",
+        text: "Des offrandes fleuries décorent maisons et sanctuaires.",
         image: "images/indonesia-offering.jpg",
       },
     ],
@@ -747,30 +747,30 @@ const countriesData = {
 
   peru: {
     id: "peru",
-    name: "Peru",
+    name: "Pérou",
     cardImage: "images/peru-card.jpg",
     heroImage: "images/peru-hero.jpg",
     intro:
-      "Peru’s traditions include Andean music, mountain festivals, and potato cuisine.",
+      "Les traditions péruviennes incluent musique andine, festivals montagnards et cuisine de la pomme de terre.",
     sections: [
       {
         smallTitle: "Inti Raymi",
-        text: "June sun festival with Inca-inspired processions.",
+        text: "Le festival du soleil en juin avec processions inspirées de l’Inca.",
         image: "images/peru-inti.jpg",
       },
       {
         smallTitle: "Ceviche",
-        text: "Marinated fish dish eaten in coastal regions.",
+        text: "Un plat de poisson mariné, typique des régions côtières.",
         image: "images/peru-ceviche.jpg",
       },
       {
-        smallTitle: "Weaving",
-        text: "Colorful textiles are woven by hand in mountain villages.",
+        smallTitle: "Tissage",
+        text: "Des textiles colorés tissés à la main dans les villages de montagne.",
         image: "images/peru-weaving.jpg",
       },
       {
-        smallTitle: "Alpaca Herding",
-        text: "Rural families raise alpacas for wool and meat.",
+        smallTitle: "Élevage d’alpagas",
+        text: "Les familles rurales élèvent des alpagas pour leur laine et leur viande.",
         image: "images/peru-alpaca.jpg",
       },
     ],
@@ -778,30 +778,30 @@ const countriesData = {
 
   argentina: {
     id: "argentina",
-    name: "Argentina",
+    name: "Argentine",
     cardImage: "images/argentina-card.jpg",
     heroImage: "images/argentina-hero.jpg",
     intro:
-      "Argentina’s culture is defined by tango, mate, and street art.",
+      "La culture argentine est marquée par le tango, le maté et l’art urbain.",
     sections: [
       {
         smallTitle: "Tango",
-        text: "Couples dance tango in city plazas and milongas.",
+        text: "Les couples dansent le tango dans les places et milongas.",
         image: "images/argentina-tango.jpg",
       },
       {
-        smallTitle: "Mate Sharing",
-        text: "Herbal tea is shared among friends from a common gourd.",
+        smallTitle: "Partage du maté",
+        text: "Le thé maté est partagé entre amis dans une même calebasse.",
         image: "images/argentina-mate.jpg",
       },
       {
         smallTitle: "Asado",
-        text: "Barbecue gatherings are a weekend ritual.",
+        text: "Les barbecues traditionnels sont un rituel du week-end.",
         image: "images/argentina-asado.jpg",
       },
       {
-        smallTitle: "Street Murals",
-        text: "Cities are decorated with colorful murals and graffiti.",
+        smallTitle: "Murales de rue",
+        text: "Les villes sont décorées de fresques et graffitis colorés.",
         image: "images/argentina-mural.jpg",
       },
     ],
@@ -809,30 +809,30 @@ const countriesData = {
 
   australia: {
     id: "australia",
-    name: "Australia",
+    name: "Australie",
     cardImage: "images/australia-card.jpg",
     heroImage: "images/australia-hero.jpg",
     intro:
-      "Australian culture values outdoor life, surf, and multicultural festivals.",
+      "La culture australienne valorise la vie en plein air, le surf et les festivals multiculturels.",
     sections: [
       {
         smallTitle: "Barbie",
-        text: "Outdoor barbecues are a favorite social event.",
+        text: "Les barbecues extérieurs sont un événement social apprécié.",
         image: "images/australia-bbq.jpg",
       },
       {
-        smallTitle: "Surf Culture",
-        text: "Coastal towns gather at beaches for surfing and picnics.",
+        smallTitle: "Culture surf",
+        text: "Les villes côtières se réunissent sur les plages pour surfer et pique-niquer.",
         image: "images/australia-surf.jpg",
       },
       {
-        smallTitle: "Bushwalks",
-        text: "Nature walks and camping trips are common getaways.",
+        smallTitle: "Randonnée dans le bush",
+        text: "Les promenades et campings dans la nature sont des escapades courantes.",
         image: "images/australia-bush.jpg",
       },
       {
-        smallTitle: "Festival Season",
-        text: "Cities host multicultural food and music festivals.",
+        smallTitle: "Saison des festivals",
+        text: "Les villes accueillent des festivals de nourriture et musique multiculturels.",
         image: "images/australia-festival.jpg",
       },
     ],
@@ -840,61 +840,60 @@ const countriesData = {
 
   nepal: {
     id: "nepal",
-    name: "Nepal",
+    name: "Népal",
     cardImage: "images/nepal-card.jpg",
     heroImage: "images/nepal-hero.jpg",
     intro:
-      "Nepal’s culture is shaped by mountain rituals and vibrant festivals.",
+      "La culture népalaise est façonnée par les rituels himalayens et les festivals vibrants.",
     sections: [
       {
         smallTitle: "Dashain",
-        text: "Longest festival with family gatherings and kite flying.",
+        text: "Le plus long festival avec réunions familiales et cerfs-volants.",
         image: "images/nepal-dashain.jpg",
       },
       {
-        smallTitle: "Prayer Flags",
-        text: "Colorful flags flutter on rooftops and trails.",
+        smallTitle: "Drapeaux de prière",
+        text: "Des drapeaux colorés flottent sur les toits et sentiers.",
         image: "images/nepal-flags.jpg",
       },
       {
-        smallTitle: "Dal Bhat",
-        text: "Rice and lentil meals are daily staples.",
+        smallTitle: "Dal bhat",
+        text: "Un repas quotidien composé de riz et lentilles.",
         image: "images/nepal-dal.jpg",
       },
       {
-        smallTitle: "Everest Treks",
-        text: "Trekking is both pilgrimage and adventure.",
+        smallTitle: "Treks de l’Everest",
+        text: "Le trekking est à la fois pèlerinage et aventure.",
         image: "images/nepal-trek.jpg",
       },
     ],
   },
-
   russia: {
     id: "russia",
-    name: "Russia",
+    name: "Russie",
     cardImage: "images/russia-card.jpg",
     heroImage: "images/russia-hero.jpg",
     intro:
-      "Russian culture values hospitality, literature, and winter celebrations.",
+      "La culture russe valorise l’hospitalité, la littérature et les fêtes d’hiver.",
     sections: [
       {
-        smallTitle: "Samovar Tea",
-        text: "Tea is brewed in ornate samovars for guests.",
+        smallTitle: "Thé au samovar",
+        text: "Le thé est préparé dans des samovars décorés pour les invités.",
         image: "images/russia-tea.jpg",
       },
       {
         smallTitle: "Maslenitsa",
-        text: "Pancake week marks the end of winter with bonfires and games.",
+        text: "La semaine des crêpes marque la fin de l’hiver avec feux et jeux.",
         image: "images/russia-maslenitsa.jpg",
       },
       {
-        smallTitle: "Dacha Retreats",
-        text: "Summer cottages host family weekends.",
+        smallTitle: "Datchas",
+        text: "Les cottages d’été accueillent les week-ends en famille.",
         image: "images/russia-dacha.jpg",
       },
       {
         smallTitle: "Banya",
-        text: "Steam baths are a social and health ritual.",
+        text: "Les bains de vapeur sont un rituel social et de bien-être.",
         image: "images/russia-banya.jpg",
       },
     ],
@@ -906,112 +905,111 @@ const countriesData = {
     cardImage: "images/philippines-card.jpg",
     heroImage: "images/philippines-hero.jpg",
     intro:
-      "Philippines culture is festive, musical, and rooted in bayanihan (community spirit).",
+      "La culture philippine est festive, musicale et ancrée dans le bayanihan (esprit communautaire).",
     sections: [
       {
         smallTitle: "Fiesta",
-        text: "Town fiestas feature parades, food, and music.",
+        text: "Les fêtes de village présentent parades, nourriture et musique.",
         image: "images/philippines-fiesta.jpg",
       },
       {
-        smallTitle: "Jeepney Rides",
-        text: "Colorful jeepneys are a symbol of daily transport.",
+        smallTitle: "Jeepneys",
+        text: "Les jeepneys colorés sont un symbole du transport quotidien.",
         image: "images/philippines-jeepney.jpg",
       },
       {
-        smallTitle: "Karaoke",
-        text: "Singing with friends is a favorite pastime.",
+        smallTitle: "Karaoké",
+        text: "Chanter entre amis est l’un des passe-temps préférés.",
         image: "images/philippines-karaoke.jpg",
       },
       {
         smallTitle: "Bayanihan",
-        text: "Neighbors help each other move houses and solve problems.",
+        text: "Les voisins s’entraident pour déménager ou résoudre des problèmes.",
         image: "images/philippines-bayanihan.jpg",
       },
     ],
-  },
-};
+  },}
 
-// Order for homepage + navigation (30 countries)
-const countriesOrder = [
-  "egypt",
-  "brazil",
-  "lebanon",
-  "syria",
-  "china",
-  "greece",
-  "india",
-  "japan",
-  "morocco",
-  "mexico",
-  "france",
-  "turkey",
-  "italy",
-  "spain",
-  "south_korea",
-  "saudi_arabia",
-  "kenya",
-  "south_africa",
-  "thailand",
-  "united_arab_emirates",
-  "ethiopia",
-  "vietnam",
-  "united_kingdom",
-  "indonesia",
-  "peru",
-  "argentina",
-  "australia",
-  "nepal",
-  "russia",
-  "philippines",
-];
+  // Ordre pour la page d'accueil + navigation (30 pays)
+  const countriesOrder = [
+    "egypt",
+    "brazil",
+    "lebanon",
+    "syria",
+    "china",
+    "greece",
+    "india",
+    "japan",
+    "morocco",
+    "mexico",
+    "france",
+    "turkey",
+    "italy",
+    "spain",
+    "south_korea",
+    "saudi_arabia",
+    "kenya",
+    "south_africa",
+    "thailand",
+    "united_arab_emirates",
+    "ethiopia",
+    "vietnam",
+    "united_kingdom",
+    "indonesia",
+    "peru",
+    "argentina",
+    "australia",
+    "nepal",
+    "russia",
+    "philippines",
+  ];
 
-const countriesList = countriesOrder
-  .map((id) => countriesData[id])
-  .filter(Boolean);
-
+  const countriesList = countriesOrder
+    .map((id) => countriesData[id])
+    .filter(Boolean);
 
 
-// ---- helpers for homepage + country pages ----
 
-// make sure the object is available on window
-window.countriesData = countriesData;
+  // ---- assistants pour la page d'accueil + pages des pays ----
 
-// order of the 30 countries you want to show
-window.countriesOrder = [
-  "egypt",
-  "brazil",
-  "lebanon",
-  "syria",
-  "china",
-  "greece",
-  "india",
-  "japan",
-  "morocco",
-  "mexico",
-  "france",
-  "turkey",
-  "italy",
-  "spain",
-  "south_korea",
-  "saudi_arabia",
-  "kenya",
-  "south_africa",
-  "thailand",
-  "united_arab_emirates",
-  "ethiopia",
-  "vietnam",
-  "united_kingdom",
-  "indonesia",
-  "peru",
-  "argentina",
-  "australia",
-  "nepal",
-  "russia",
-  "philippines"
-];
+  // s’assurer que l’objet est disponible dans window
+  window.countriesData = countriesData;
 
-// build a clean ordered array (ignores helper keys like lebanon_card_page)
-window.countriesList = window.countriesOrder
-  .map((id) => window.countriesData[id])
-  .filter(Boolean);
+  // ordre des 30 pays que vous souhaitez afficher
+  window.countriesOrder = [
+    "egypt",
+    "brazil",
+    "lebanon",
+    "syria",
+    "china",
+    "greece",
+    "india",
+    "japan",
+    "morocco",
+    "mexico",
+    "france",
+    "turkey",
+    "italy",
+    "spain",
+    "south_korea",
+    "saudi_arabia",
+    "kenya",
+    "south_africa",
+    "thailand",
+    "united_arab_emirates",
+    "ethiopia",
+    "vietnam",
+    "united_kingdom",
+    "indonesia",
+    "peru",
+    "argentina",
+    "australia",
+    "nepal",
+    "russia",
+    "philippines"
+  ];
+
+  // construire un tableau propre et ordonné (ignore les clés d’aide comme lebanon_card_page)
+  window.countriesList = window.countriesOrder
+    .map((id) => window.countriesData[id])
+    .filter(Boolean);

@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <img src="${country.cardImage}" alt="${country.name}" loading="lazy" />
       </div>
       <div class="country-card__label">${country.name}</div>
-      <div class="country-card__meta">${country.sections.length} instantanés culturels</div>
+      <div class="country-card__meta">${country.sections.length} cultural snapshots</div>
     `;
 
     card.addEventListener("click", () => {

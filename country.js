@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (introEl) introEl.textContent = country.intro;
   if (heroImgEl) {
     heroImgEl.src = country.heroImage;
-    heroImgEl.alt = `${country.name} – paysage culturel`;
+    heroImgEl.alt = `${country.name} – cultural landscape`;
   }
   document.title = `Les couleurs du monde – ${country.name}`;
 
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
       block.className = "culture-block";
       block.innerHTML = `
         <div class="culture-block__text">
-          <p class="culture-block__eyebrow">Instantané ${index + 1}</p>
+          <p class="culture-block__eyebrow">Snapshot ${index + 1}</p>
           <h2 class="culture-block__title">${section.smallTitle}</h2>
           <p class="culture-block__body">${section.text}</p>
         </div>
@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
     prevLink.innerHTML = `← <span>${prevCountry.name}</span>`;
   }
 
- 	if (nextLink && nextCountry) {
+  if (nextLink && nextCountry) {
     nextLink.href = `country.html?id=${nextCountry.id}`;
     nextLink.innerHTML = `<span>${nextCountry.name}</span> →`;
   }
