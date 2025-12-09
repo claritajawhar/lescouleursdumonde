@@ -66,30 +66,30 @@ const countriesData = {
   lebanon: {
     id: "lebanon",
     name: "Liban",
-    cardImage: "images/lebanon-card.jpg",
-    heroImage: "images/lebanon-hero.jpg",
+    cardImage: "https://i0.wp.com/girlswanderlust.com/wp-content/uploads/2024/01/piotr-chrobot-KqEYj1VHA_o-unsplash.jpg?ssl=1",
+    heroImage: "https://i0.wp.com/girlswanderlust.com/wp-content/uploads/2024/01/piotr-chrobot-KqEYj1VHA_o-unsplash.jpg?ssl=1",
     intro:
       "Les traditions libanaises reflètent une hospitalité généreuse, des racines méditerranéennes, des rituels montagnards et des tables partagées.",
     sections: [
       {
         smallTitle: "Buffet de mezzé",
         text: "Les longues tables commencent avec du houmous, du taboulé et du labné — les repas sont lents, partagés et les hôtes insistent pour que l’on mange davantage.",
-        image: "images/lebanon-mezze.jpg",
+        image: "https://www.thespruceeats.com/thmb/6RNeHZwBnHTuEhUytoXk41Ca2jE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1271870386-4c6e4054d17d49e79ca896f3c996b6ad.jpg",
       },
       {
         smallTitle: "Ligne de dabké",
         text: "Une chaîne de danse puissante avec des pas synchronisés menée par un improvisateur, exprimant unité et joie.",
-        image: "images/lebanon-dabke.jpg",
+        image: "https://365daysoflebanon.com/wp-content/uploads/2016/06/2nd_lebanese_bazar_10.jpg",
       },
       {
         smallTitle: "Identité du cèdre",
         text: "Les cèdres symbolisent la résilience et l’histoire, piliers de l’imaginaire national.",
-        image: "images/lebanon-cedars.jpg",
+        image: "https://www.leparisien.fr/resizer/aYK5uGVlbTJFE5cE_XtUA5mq2h8=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/GNEMETX3CFH3XM7FNLV5TOFCB4.jpg",
       },
       {
         smallTitle: "Marchés des khans",
         text: "Les khans villageois et urbains accueillaient autrefois les marchands itinérants et inspirent aujourd’hui l’artisanat et les récits commerciaux locaux.",
-        image: "images/lebanon-khan.jpg",
+        image: "https://guide.moovtoo.com/storage/galleries/Venue/byblos-old-souk-8667/byblos-old-souk-8667_0kue19106/byblos-old-souk-8667-2020-05-23-5ec92d1587aba.jpg",
       },
     ],
   },
