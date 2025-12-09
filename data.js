@@ -98,29 +98,29 @@ const countriesData = {
   syria: {
     id: "syria",
     name: "Syrie",
-    cardImage: "images/syria-card.jpg",
-    heroImage: "images/syria-hero.jpg",
+    cardImage: "https://i.pinimg.com/736x/d1/4a/e0/d14ae0572f609a3ab0e34ca68cccfdf7.jpg",
+    heroImage: "https://i.pinimg.com/736x/d1/4a/e0/d14ae0572f609a3ab0e34ca68cccfdf7.jpg",
     intro: "La culture syrienne est ancrée dans ses villes anciennes, son hospitalité et ses traditions sucrées.",
     sections: [
       {
         smallTitle: "Café dans les cours",
         text: "Les maisons historiques rassemblent famille et invités dans des cours parfumées au jasmin autour d’un café arabe.",
-        image: "images/syria-courtyard.jpg",
+        image: "https://cdn.enabbaladi.net/arabic/wp-content/uploads/2025/01/Rawda-Cafe-in-Damascus.jpg",
       },
       {
         smallTitle: "Art du baklava",
         text: "Les pâtisseries et maisons préparent des plateaux de baklava et de ma’amoul pour les fêtes et les invités.",
-        image: "images/syria-baklava.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Baklava%281%29.png",
       },
       {
         smallTitle: "Patrimoine textile",
         text: "Le bois incrusté, la nacre et les textiles décorés reflètent des générations de savoir-faire.",
-        image: "images/syria-textile.jpg",
+        image: "https://syriadirect.org/wp-content/uploads/2021/02/7b423bf6577313bc83d1a1112425a05d.jpg",
       },
       {
         smallTitle: "Salutations au marché",
         text: "Les souks résonnent de marchandages et de conversations entre voisins.",
-        image: "images/syria-market.jpg",
+        image: "https://image.lecourrier.vn/MediaUpload/Org/2025/06/09/163938-vna_potal_syria_hoan_nghenh_my_do_bo_trung_phat_8053147.jpg",
       },
     ],
   },
@@ -128,30 +128,30 @@ const countriesData = {
   china: {
     id: "china",
     name: "Chine",
-    cardImage: "images/china-card.jpg",
-    heroImage: "images/china-hero.jpg",
+    cardImage: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20250906_CNP002.jpg",
+    heroImage: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20250906_CNP002.jpg",
     intro:
       "La Chine équilibre rituel du thé, festivals de lanternes, fluidité de la calligraphie et respect familial des récoltes.",
     sections: [
       {
         smallTitle: "Fête du Printemps",
         text: "Les familles partagent des repas de retrouvailles, des raviolis symboliques et une décoration de lanternes rouges.",
-        image: "images/china-spring.jpg",
+        image: "https://static.nationalgeographic.fr/files/styles/image_3200/public/chinese-new-year-1.webp?w=1600&h=900",
       },
       {
         smallTitle: "Fête des lanternes",
         text: "Les lanternes en papier portent des énigmes, le rythme des pétards et des reflets nocturnes sur les rivières.",
-        image: "images/china-lantern.jpg",
+        image: "https://institut-confucius.univ-larochelle.fr/wp-content/uploads/2018/04/lanterne-chang-mai-bd-1024x683.jpg",
       },
       {
         smallTitle: "Art de la calligraphie",
         text: "La discipline du pinceau mêle rythme et geste, exposée dans les espaces calmes des maisons.",
-        image: "images/china-calligraphy.jpg",
+        image: "https://www.voyage-chine.com/cdn/cn-public/la_calligraphie_chinoise.jpg",
       },
       {
         smallTitle: "Temps du thé",
         text: "Les cérémonies vont des tasses de cuisine aux rituels plus formels avec versements élevés.",
-        image: "images/china-tea.jpg",
+        image: "https://colorsoftea.fr/blog/wp-content/uploads/2020/04/femme-servant-du-thé-cérémonie-chinoise.png-960x640.jpg",
       },
     ],
   },
