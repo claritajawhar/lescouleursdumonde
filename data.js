@@ -234,7 +234,7 @@ const countriesData = {
       {
         smallTitle: "Hanami",
         text: "Les pique-niques sous les cerisiers en fleurs marquent l’impermanence et la beauté.",
-        image: "ihttps://www.touristjapan.com/wp-content/uploads/2019/02/Shutterstock_240415279-800x545.jpg",
+        image: "https://www.touristjapan.com/wp-content/uploads/2019/02/Shutterstock_240415279-800x545.jpg",
       },
       {
         smallTitle: "Matsuri",
