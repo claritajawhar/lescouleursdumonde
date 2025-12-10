@@ -407,30 +407,30 @@ const countriesData = {
   spain: {
     id: "spain",
     name: "Espagne",
-    cardImage: "images/spain-card.jpg",
-    heroImage: "images/spain-hero.jpg",
+    cardImage: "https://assets.cityexperiences.com/wp-content/uploads/2022/04/Cadiz_36523_Plaza_De_Espan-1024x737.jpeg",
+    heroImage: "https://assets.cityexperiences.com/wp-content/uploads/2022/04/Cadiz_36523_Plaza_De_Espan-1024x737.jpeg",
     intro:
       "La culture espagnole pulse à travers des fêtes flamboyantes, un chaos communautaire, un art profond et une satire artisanale.",
     sections: [
       {
         smallTitle: "La Tomatina",
         text: "Née en 1945, Buñol se transforme en bataille de tomates — plus de 120 tonnes sont lancées dans la joie avant un grand nettoyage communautaire.",
-        image: "images/spain-tomatina.jpg",
+        image: "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/2025-08-27T114140Z_1187525642_RC2NFGARYGJR_RTRMADP_3_SPAIN-CULTURE-TOMATO-FIGHT-1024x683.jpg",
       },
       {
         smallTitle: "Art du flamenco",
         text: "Une danse reconnue par l’UNESCO, née en Andalousie, qui mêle jeu de pieds, guitare et expression émotionnelle brute.",
-        image: "images/spain-flamenco.jpg",
+        image: "https://www.connollycove.com/wp-content/uploads/2024/06/Flamenco-Tradition.webp",
       },
       {
         smallTitle: "San Fermín",
         text: "Les tenues blanches et rouges marquent la fête du saint patron de Pampelune, avec la course de taureaux électrisante vers l’arène.",
-        image: "images/spain-sanfermin.jpg",
+        image: "https://www.spain.info/export/sites/segtur/.content/imagenes/galeria-destacados/eventos/navarra/san-fermin-galeria2.jpg",
       },
       {
         smallTitle: "Las Fallas",
         text: "De grands monuments satiriques sont brûlés chaque mois de mars, symbolisant le lâcher-prise et le renouveau à travers la rébellion et l’artisanat.",
-        image: "images/spain-fallas.jpg",
+        image: "https://devvlsnxxkrq9.cloudfront.net/prod/assets/Pichiavo-Fallas-Valencia-1.jpg",
       },
     ],
   },
@@ -438,30 +438,30 @@ const countriesData = {
   south_korea: {
     id: "south_korea",
     name: "Corée du Sud",
-    cardImage: "images/south-korea-card.jpg",
-    heroImage: "images/south-korea-hero.jpg",
+    cardImage: "https://avgtravels.com/au/wp-content/uploads/sites/4/1-25.jpg",
+    heroImage: "https://avgtravels.com/au/wp-content/uploads/sites/4/1-25.jpg",
     intro:
       "La Corée du Sud mêle palais anciens, technologie et cuisine de rue.",
     sections: [
       {
         smallTitle: "Chuseok",
         text: "Fête des récoltes pour honorer les ancêtres avec nourriture et chansons.",
-        image: "images/south-korea-chuseok.jpg",
+        image: "https://www.travelodgehotels.asia/wp-content/uploads/2025/09/shutterstock_2651149601.webp",
       },
       {
         smallTitle: "Fierté du hanbok",
         text: "Le vêtement traditionnel est porté lors des fêtes et des événements spéciaux.",
-        image: "images/south-korea-hanbok.jpg",
+        image: "https://www.kpops-lifestyle.com/wp-content/uploads/2024/08/1722556235_hanbok-decouvrez-la-beaute-du-costume-traditionnel-coreen.jpg",
       },
       {
         smallTitle: "Street food",
         text: "Les marchés servent tteokbokki, kimbap et encas frits.",
-        image: "images/south-korea-food.jpg",
+        image: "https://live.staticflickr.com/65535/49042517737_ab9d3f049a_b.jpg",
       },
       {
         smallTitle: "Visites de palais",
         text: "Familles et amis se promènent dans les palais le week-end.",
-        image: "images/south-korea-palace.jpg",
+        image: "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/b0/d4/b2.jpg",
       },
     ],
   },
@@ -469,15 +469,15 @@ const countriesData = {
   saudi_arabia: {
     id: "saudi_arabia",
     name: "Arabie saoudite",
-    cardImage: "images/saudi-arabia-card.jpg",
-    heroImage: "images/saudi-arabia-hero.jpg",
+    cardImage: "https://i0.wp.com/www.touristsaudiarabia.com/wp-content/uploads/2023/05/shutterstock_1224851173.jpg?fit=1000%2C667&ssl=1",
+    heroImage: "https://i0.wp.com/www.touristsaudiarabia.com/wp-content/uploads/2023/05/shutterstock_1224851173.jpg?fit=1000%2C667&ssl=1",
     intro:
       "La culture saoudienne est façonnée par l’hospitalité du désert, le café et la poésie.",
     sections: [
       {
         smallTitle: "Rencontres au majlis",
         text: "Des pièces tapissées accueillent thé, dattes et poésie pour les invités.",
-        image: "images/saudi-arabia-majlis.jpg",
+        image: "https://www.travelandtourworld.com/wp-content/uploads/2025/08/Majlis.jpg",
       },
       {
         smallTitle: "Rituel du café",
