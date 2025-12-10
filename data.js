@@ -159,30 +159,30 @@ const countriesData = {
   greece: {
     id: "greece",
     name: "Grèce",
-    cardImage: "images/greece-card.jpg",
-    heroImage: "images/greece-hero.jpg",
+    cardImage: "https://internationalliving.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwv75stsetqy3%2F18jOEJrhKM7WA81nkCKZV8%2F6f70df258ed1233d5c3a8e3f01298b06%2FGreece.jpg%3Fq%3D60%26fit%3Dfill%26fm%3Dwebp&w=3840&q=60",
+    heroImage: "https://internationalliving.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwv75stsetqy3%2F18jOEJrhKM7WA81nkCKZV8%2F6f70df258ed1233d5c3a8e3f01298b06%2FGreece.jpg%3Fq%3D60%26fit%3Dfill%26fm%3Dwebp&w=3840&q=60",
     intro:
       "La Grèce est façonnée par les horizons marins, l’harmonie bleu et blanc, les rituels aux bougies et les maisons ouvertes liées aux saints.",
     sections: [
       {
         smallTitle: "Fêtes de prénom",
         text: "Les maisons s’ouvrent aux voisins en offrant des douceurs et de petites attentions pour honorer le calendrier des saints.",
-        image: "images/greece-name-day.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Feb1712.jpg",
       },
       {
         smallTitle: "Bougies de Pâques",
         text: "La flamme de minuit se transmet de bougie en bougie, illuminant les ruelles et les tables familiales.",
-        image: "images/greece-easter.jpg",
+        image: "https://i.etsystatic.com/12221418/r/il/d1faa9/1860064497/il_570xN.1860064497_cdop.jpg",
       },
       {
         smallTitle: "Cafés des îles",
         text: "Le café et les parties de backgammon se partagent face à la mer jusque tard dans la nuit.",
-        image: "images/greece-cafe.jpg",
+        image: "https://c8.alamy.com/compfr/bbmw5n/ile-grecque-cafe-cafe-avec-l-architecture-classique-a-paros-cyclades-grece-logaras-bbmw5n.jpg",
       },
       {
         smallTitle: "Équilibre bleu-blanc",
         text: "L’architecture rend hommage à la clarté de la mer, à l’espace et au jeu de la lumière.",
-        image: "images/greece-bluewhite.jpg",
+        image: "https://www.ladromemontagne.fr/wp-content/uploads/2025/06/village_nicois_ressemble_a_grece_5751.jpg",
       },
     ],
   },
@@ -190,30 +190,30 @@ const countriesData = {
   india: {
     id: "india",
     name: "Inde",
-    cardImage: "images/india-card.jpg",
-    heroImage: "images/india-hero.jpg",
+    cardImage: "https://static.toiimg.com/photo/msid-92089121,width-96,height-65.cms",
+    heroImage: "https://static.toiimg.com/photo/msid-92089121,width-96,height-65.cms",
     intro:
       "Les traditions indiennes fleurissent à travers les festivals de couleurs, les routes d’épices, les dialogues de percussions et les chapitres de mariages qui durent plusieurs jours.",
     sections: [
       {
         smallTitle: "Lumières de Diwali",
         text: "Des lampes à huile, des motifs et des douceurs sont partagés entre voisins en visite.",
-        image: "images/india-diwali.jpg",
+        image: "https://voyagesurmesureeninde.com/wp-content/uploads/2020/11/Diwali_Festival-1024x683.jpg",
       },
       {
         smallTitle: "Couleurs de Holi",
         text: "Une saison de poudres colorées symbolisant le renouveau et un joyeux chaos.",
-        image: "images/india-holi.jpg",
+        image: "https://www.placegrenet.fr/wp-content/uploads/2025/04/festival-Holi-credit-Bollycine-Grenoble-1.jpg",
       },
       {
         smallTitle: "Chapitre des mariages",
         text: "Des cérémonies sur plusieurs jours où henné, guirlandes et plats partagés relient les générations.",
-        image: "images/india-wedding.jpg",
+        image: "https://lepetitjournal.com/sites/default/files/2024-02/photo%20de%20mariage.JPG",
       },
       {
         smallTitle: "Danse classique",
         text: "Des formes de danse centrées sur le geste, comme le Kathak, racontant des histoires par les yeux, les mains et les rythmes de tabla.",
-        image: "images/india-dance.jpg",
+        image: "https://s3.amazonaws.com/cms.ipressroom.com/173/files/20157/55ce54e8299b5024fe005743_Rangoli+Dance+Company/Rangoli+Dance+Company_mid.jpg",
       },
     ],
   },
@@ -221,30 +221,30 @@ const countriesData = {
   japan: {
     id: "japan",
     name: "Japon",
-    cardImage: "images/japan-card.jpg",
-    heroImage: "images/japan-hero.jpg",
+    cardImage: "https://www.lot.com/content/dam/lot/lot-com/destination-photos/japonia/Tokyo-5%20.coreimg.jpg/1723628368208/Tokyo-5%20.jpg",
+    heroImage: "https://www.lot.com/content/dam/lot/lot-com/destination-photos/japonia/Tokyo-5%20.coreimg.jpg/1723628368208/Tokyo-5%20.jpg",
     intro:
       "Le Japon mêle cérémonies contemplatives, économie des sanctuaires, saisons photographiées et innovation dans l’usage de l’espace.",
     sections: [
       {
         smallTitle: "Cérémonie du thé",
         text: "Des gestes intentionnels invitent les invités à remarquer les textures et les sons.",
-        image: "images/japan-tea.jpg",
+        image: "https://teapot-renaissance.com/cdn/shop/articles/ceremonie-du-the-japonaise.jpg?v=1574986206",
       },
       {
         smallTitle: "Hanami",
         text: "Les pique-niques sous les cerisiers en fleurs marquent l’impermanence et la beauté.",
-        image: "images/japan-hanami.jpg",
+        image: "ihttps://www.touristjapan.com/wp-content/uploads/2019/02/Shutterstock_240415279-800x545.jpg",
       },
       {
         smallTitle: "Matsuri",
         text: "Des festivals de quartier avec sanctuaires portés, tambours et yukatas.",
-        image: "images/japan-matsuri.jpg",
+        image: "https://learnjapanese123.com/wp-content/uploads/2019/08/summer-festivals-thumbnail.jpg",
       },
       {
         smallTitle: "Minimalisme artisanal",
         text: "La laque, l’ikebana et la poterie reflètent une discipline calme et une précision de l’espace.",
-        image: "images/japan-craft.jpg",
+        image: "https://www.japannakama.co.uk/wp-content/uploads/2021/05/M-campaign-Asia.jpeg",
       },
     ],
   },
@@ -252,30 +252,30 @@ const countriesData = {
   morocco: {
     id: "morocco",
     name: "Maroc",
-    cardImage: "images/morocco-card.jpg",
-    heroImage: "images/morocco-hero.jpg",
+    cardImage: "https://en.bladi.net/img/logo/marrakech-shines-moroccos-hidden-gem-among-worlds-happiest-cities-117300.jpg",
+    heroImage: "https://en.bladi.net/img/logo/marrakech-shines-moroccos-hidden-gem-among-worlds-happiest-cities-117300.jpg",
     intro:
       "La culture marocaine mêle routes du désert, art du zellige, soirées d’encens et étiquette du thé servi.",
     sections: [
       {
         smallTitle: "Rituel du thé à la menthe",
         text: "Le thé à la menthe est versé de haut pour créer une mousse — symbole d’une hospitalité chaleureuse et sans hâte.",
-        image: "images/morocco-tea.jpg",
+        image: "https://www.locmarrakech.com/tourisme/wp-content/uploads/2024/07/The-a-la-menthe-5.jpg",
       },
       {
         smallTitle: "Design zellige",
         text: "Des carreaux géométriques taillés à la main forment des mosaïques précises dans les riads et bâtiments publics.",
-        image: "images/morocco-zellige.jpg",
+        image: "https://moroccodreamsafari.com/wp-content/uploads/2025/01/Moroccan-Zellige.jpg",
       },
       {
         smallTitle: "Rythme des souks",
         text: "Les anciennes médinas abritent cuirs, épices et lanternes où résonnent marchandage et salutations.",
-        image: "images/morocco-souk.jpg",
+        image: "https://comanav.ma/wp-content/uploads/2025/05/guide-souks-medina.jpg",
       },
       {
         smallTitle: "Oud et bakhour",
         text: "Les soirées s’ouvrent souvent avec du parfum d’oud et de l’encens brûlé, marquant une ambiance de bienvenue.",
-        image: "images/morocco-oud.jpg",
+        image: "https://m.media-amazon.com/images/I/81ViX1Cvn6L._AC_UF894,1000_QL80_.jpg",
       },
     ],
   },
@@ -283,61 +283,60 @@ const countriesData = {
   mexico: {
     id: "mexico",
     name: "Mexique",
-    cardImage: "images/mexico-card.jpg",
-    heroImage: "images/mexico-hero.jpg",
+    cardImage: "https://www.travelanddestinations.com/wp-content/uploads/2021/01/Mexico-City-Skyline-feature-image.jpg",
+    heroImage: "https://www.travelanddestinations.com/wp-content/uploads/2021/01/Mexico-City-Skyline-feature-image.jpg",
     intro:
       "Le Mexique honore les ancêtres avec des couleurs, des aliments à base de maïs, des places publiques et des traditions de satire régionale.",
     sections: [
       {
         smallTitle: "Día de Muertos",
         text: "Les familles construisent des autels colorés avec des fleurs de souci et des crânes en sucre pour honorer et se rappeler les ancêtres avec chaleur.",
-        image: "images/mexico-muertos.jpg",
+        image: "https://www.lodj.ma/photo/art/grande/84192916-60153777.jpg?v=1731442096",
       },
       {
         smallTitle: "Nuits de mariachi",
         text: "Les soirées résonnent de trompettes, de cordes et de concerts sur les places, mêlant fierté et récits de chagrin.",
-        image: "images/mexico-mariachi.jpg",
+        image: "https://static-resources.mirai.com/wp-content/uploads/sites/1738/20240111094839/3.-Mariachi-Mexico-tradicional-traje.jpg",
       },
       {
         smallTitle: "Places-salons",
         text: "Les places publiques accueillent familles, nourriture de rue, musique et salutations qui font tomber les barrières.",
-        image: "images/mexico-plaza.jpg",
+        image: "https://ca-times.brightspotcdn.com/dims4/default/37aa7df/2147483647/strip/true/crop/2048x1365+0+0/resize/1440x960!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5d%2Fce%2F11233a0f36f11f063996f8222d2f%2Fla-fg-mexico-beauty-district-photos-010",
       },
       {
         smallTitle: "Art de la masa",
         text: "La pâte de maïs est moulue à la main pour les tortillas et tamales — base des repas rituels.",
-        image: "images/mexico-masa.jpg",
-      },
+        image: "https://images.ctfassets.net/2658fe8gbo8o/f45f01776976420d81c01ef432d62f2e-photo-asset/e31e42ceb2180bf18443d74dfa449432/LA_Cocina_Maize_Exhibition2.jpg
     ],
   },
 
   france: {
     id: "france",
     name: "France",
-    cardImage: "images/france-card.jpg",
-    heroImage: "images/france-hero.jpg",
+    cardImage: "https://143587181.fs1.hubspotusercontent-eu1.net/hub/143587181/hubfs/Best%20Places%20to%20Live%20in%20France-jpg.jpeg?width=1600&height=1068&name=Best%20Places%20to%20Live%20in%20France-jpg.jpeg",
+    heroImage: "https://143587181.fs1.hubspotusercontent-eu1.net/hub/143587181/hubfs/Best%20Places%20to%20Live%20in%20France-jpg.jpeg?width=1600&height=1068&name=Best%20Places%20to%20Live%20in%20France-jpg.jpeg",
     intro:
       "La France mêle observation en terrasse, repas prolongés, patrimoine du pain et places musicales.",
     sections: [
       {
         smallTitle: "Terrasses de café",
         text: "Les terrasses sont des pauses rituelles pour lire, travailler ou observer le flux de la rue.",
-        image: "images/france-cafe.jpg",
+        image: "https://images.squarespace-cdn.com/content/v1/65d5b7ad43a47e6130a89ea7/1740469206144-0TTATIFI670M7HC5FZGH/ddScreenshot+2025-02-25+at+16.30.jpg",
       },
       {
         smallTitle: "Marchés régionaux",
         text: "Les marchés hebdomadaires mettent en avant fromages, pains et produits de saison avec des échanges directs avec les producteurs.",
-        image: "images/france-market.jpg",
+        image: "https://images.ctfassets.net/43cg184ejz07/4C2hQvFuQxBA60o18RWxil/ff55f66dffaa39e62a78c7f3bb9625f8/pexels-photo-868110.webp?fm=jpg&w=1024&h=683&fit=fill",
       },
       {
         smallTitle: "Patrimoine du pain",
         text: "Les boulangeries entretiennent des traditions au levain avec des files du matin et des baguettes partagées à table.",
-        image: "images/france-bread.jpg",
+        image: "https://www.francealumni.fr/ressources/temp/images/100_850x566_66666666667_1251485546_2021124000-1617878320-adobestock-219602502.webp",
       },
       {
         smallTitle: "Fête de la Musique",
         text: "En juin, les rues se remplissent de concerts en plein air où les passants s’arrêtent pour danser.",
-        image: "images/france-music.jpg",
+        image: "https://www.fohhn.com/fileadmin/_processed_/d/5/csm_gallery_main_fete_de_la_musique_nice_france_fbf4dabadc.jpg",
       },
     ],
   },
@@ -345,30 +344,30 @@ const countriesData = {
   turkey: {
     id: "turkey",
     name: "Turquie",
-    cardImage: "images/turkey-card.jpg",
-    heroImage: "images/turkey-hero.jpg",
+    cardImage: "https://plus.unsplash.com/premium_photo-1661955588369-b0d28de38b45?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHVya2V5JTIwY291bnRyeXxlbnwwfHwwfHx8MA%3D%3D",
+    heroImage: "https://plus.unsplash.com/premium_photo-1661955588369-b0d28de38b45?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHVya2V5JTIwY291bnRyeXxlbnwwfHwwfHx8MA%3D%3D",
     intro:
       "La Turquie relie les continents par l’étiquette du thé, les silhouettes côtières et l’artisanat intergénérationnel.",
     sections: [
       {
         smallTitle: "Verres de thé",
         text: "Les verres de thé en forme de tulipe marquent des moments de pause dans les marchés et les maisons.",
-        image: "images/turkey-tea.jpg",
+        image: "https://m.media-amazon.com/images/I/91x9G8b0XEL.jpg",
       },
       {
         smallTitle: "Bazars",
         text: "Les marchés résonnent d’épices, de cuivre et d’histoires de marchandage.",
-        image: "images/turkey-bazaar.jpg",
+        image: "https://www.magnificenttravel.com/public/thumbs/1200x630-thumbnail-Istanbul-Grand-Bazaar--.jpgg",
       },
       {
         smallTitle: "Rythme du Bosphore",
         text: "Ferrys, mosquées et pêcheurs partagent la ligne d’horizon et la mer.",
-        image: "images/turkey-bosphorus.jpg",
+        image: "https://www.tracedirecte.com/media/original_images/turquie-croisere-bosphore-istanbul.jpg.1920x0_q85_format-jpg.jpg",
       },
       {
         smallTitle: "Ebru",
         text: "L’art du marbrage sur papier fait flotter des motifs qui symbolisent le mouvement et le flux.",
-        image: "images/turkey-ebru.jpg",
+        image: "https://www.lesartsturcs.com/wp-content/uploads/2021/11/ebru.jpg",
       },
     ],
   },
@@ -376,30 +375,30 @@ const countriesData = {
   italy: {
     id: "italy",
     name: "Italie",
-    cardImage: "images/italy-card.jpg",
-    heroImage: "images/italy-hero.jpg",
+    cardImage: "https://www.royalcaribbean.com/media-assets/pmc/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2024/01/stock-photo-tower-cathedral-pisa-italy-2366433343.jpg?w=1024",
+    heroImage: "https://www.royalcaribbean.com/media-assets/pmc/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2024/01/stock-photo-tower-cathedral-pisa-italy-2366433343.jpg?w=1024",
     intro:
       "La tradition italienne célèbre les cuisines régionales, l’artisanat et les places ouvertes.",
     sections: [
       {
         smallTitle: "Passeggiata",
         text: "Les promenades du soir sur les places relient familles et amis.",
-        image: "images/italy-passeggiata.jpg",
+        image: "https://www.tripsavvy.com/thmb/5C_M3QaL2vKtUWdnJ3tGI2KdXfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/people-enjoying-passeggiata-in-piazza-duomo-on-the-tiny-island-of-ortygia--unesco-world-heritage-site--syracuse--sicily--italy--europe-685020399-5a284bf289eacc0037b464f0.jpg",
       },
       {
         smallTitle: "Repas lents",
         text: "Les repas se déroulent sur plusieurs plats avec conversation et café.",
-        image: "images/italy-meal.jpg",
+        image: "https://i.shgcdn.com/61650172-5a12-452e-bc7f-2b0c0f311344/-/format/auto/-/preview/3000x3000/-/quality/lighter/g",
       },
       {
         smallTitle: "Ateliers artisanaux",
         text: "Cuir, verre et céramique sont façonnés à la main dans de petits ateliers de ville.",
-        image: "images/italy-craft.jpg",
+        image: "https://www.visittuscany.com/shared/visittuscany/immagini/blogs/idea/artesiaceramica.jpg",
       },
       {
         smallTitle: "Processions de fêtes",
         text: "Les fêtes locales remplissent les rues de musique et de défilés.",
-        image: "images/italy-festival.jpg",
+        image: "https://emporiosicilia.it/cdn/shop/articles/bd06c150d88966f7000301e3125ee66b.jpg?v=1680634220",
       },
     ],
   },
