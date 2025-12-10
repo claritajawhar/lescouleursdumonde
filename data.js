@@ -306,7 +306,8 @@ const countriesData = {
       {
         smallTitle: "Art de la masa",
         text: "La pâte de maïs est moulue à la main pour les tortillas et tamales — base des repas rituels.",
-        image: "https://images.ctfassets.net/2658fe8gbo8o/f45f01776976420d81c01ef432d62f2e-photo-asset/e31e42ceb2180bf18443d74dfa449432/LA_Cocina_Maize_Exhibition2.jpg
+        image: "https://images.ctfassets.net/2658fe8gbo8o/f45f01776976420d81c01ef432d62f2e-photo-asset/e31e42ceb2180bf18443d74dfa449432/LA_Cocina_Maize_Exhibition2.jpg",
+      },
     ],
   },
 
