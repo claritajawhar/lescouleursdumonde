@@ -482,17 +482,17 @@ const countriesData = {
       {
         smallTitle: "Rituel du café",
         text: "Le café à la cardamome est servi aux visiteurs avec une étiquette de la main droite.",
-        image: "images/saudi-arabia-coffee.jpg",
+        image: "https://res.cloudinary.com/ddjuftfy2/image/upload/f_webp,c_fill,q_auto/memphis/large/9e5a8e326b84538bd90b614145eeddab.jpg",
       },
       {
         smallTitle: "Courses de chameaux",
         text: "Les festivals du désert proposent des courses de chameaux et de la musique folklorique.",
-        image: "images/saudi-arabia-camel.jpg",
+        image: "https://media.sudouest.fr/7346424/1200x-1/sudouest-photo-1-24824479.jpg",
       },
       {
         smallTitle: "Festins de l’Aïd",
         text: "Les tables familiales débordent de riz, d’agneau et de douceurs pour l’Aïd.",
-        image: "images/saudi-arabia-eid.jpg",
+        image: "https://www.visitsaudi.com/content/dam/wvs/stories/saudi-family-sharing-meal.jpg",
       },
     ],
   },
@@ -500,25 +500,25 @@ const countriesData = {
   kenya: {
     id: "kenya",
     name: "Kenya",
-    cardImage: "images/kenya-card.jpg",
-    heroImage: "images/kenya-hero.jpg",
+    cardImage: "https://media-cdn.tripadvisor.com/media/photo-s/17/72/7a/16/the-beautiful-city-of.jpg",
+    heroImage: "https://media-cdn.tripadvisor.com/media/photo-s/17/72/7a/16/the-beautiful-city-of.jpg",
     intro:
       "La vie kenyane est façonnée par les marchés, la musique et les pauses thé.",
     sections: [
       {
         smallTitle: "Art des matatus",
         text: "Les minibus colorés vibrent au rythme de la musique et de dessins peints à la main.",
-        image: "images/kenya-matatu.jpg",
+        image: "https://images.ctfassets.net/adaoj5ok2j3t/7Dig6PB1jUuQ4lrB8Rhel8/ca05ac0e8e78aa2a535be3699d2df0ab/dennismuraguri-wepresent9.jpg?fm=webp&w=3000&q=75",
       },
       {
         smallTitle: "Heure du chai",
         text: "Un thé au lait sucré est partagé à la maison comme au travail.",
-        image: "images/kenya-chai.jpg",
+        image: "https://judywanderi.net/wp-content/uploads/2020/11/20201114-IMG_9886-1024x683.jpg",
       },
       {
         smallTitle: "Jours de marché",
         text: "Les marchés en plein air débordent de produits, d’artisanat et de salutations.",
-        image: "images/kenya-market.jpg",
+        image: "https://ims.ev.mu/shutterstock_1139727308_d37c11a1b0/shutterstock_1139727308_d37c11a1b0.jpg",
       },
       {
         smallTitle: "Contes au village",
@@ -531,30 +531,30 @@ const countriesData = {
   south_africa: {
     id: "south_africa",
     name: "Afrique du Sud",
-    cardImage: "images/south-africa-card.jpg",
-    heroImage: "images/south-africa-hero.jpg",
+    cardImage: "https://media.istockphoto.com/id/671323338/photo/clifton-beach-without-people-in-the-late-afternoon.jpg?s=612x612&w=0&k=20&c=Nh3uMGmTPXTGcbOHiwGC8Sti6XF3LmdaPFG--k1wtqM=",
+    heroImage: "https://media.istockphoto.com/id/671323338/photo/clifton-beach-without-people-in-the-late-afternoon.jpg?s=612x612&w=0&k=20&c=Nh3uMGmTPXTGcbOHiwGC8Sti6XF3LmdaPFG--k1wtqM=",
     intro:
       "La culture sud-africaine est un mélange de langues, de musique et de rassemblements en plein air.",
     sections: [
       {
         smallTitle: "Braai",
         text: "Une tradition de barbecue réunissant amis et famille dans les jardins ou les parcs.",
-        image: "images/south-africa-braai.jpg",
+        image: "https://bbqchamps.com/wp-content/uploads/2022/06/south-african-braai.png",
       },
       {
         smallTitle: "Danse Gumboot",
         text: "L’histoire minière inspire cette danse énergique aux bottes frappées.",
-        image: "images/south-africa-gumboot.jpg",
+        image: "https://entertainmentzone.co.za/wp-content/uploads/2025/01/bn_lerato_machetela-2.jpg__1600x900_q85_crop_subsampling-2-2.jpg",
       },
       {
         smallTitle: "Jazz des townships",
         text: "Les clubs et les groupes de rue jouent tard dans la nuit.",
-        image: "images/south-africa-jazz.jpg",
+        image: "https://cdn.24.co.za/files/Cms/General/d/8649/67558c1958fd4fa8b7d0d63985fd6ded.jpg",
       },
       {
         smallTitle: "Heritage Day",
         text: "La fête de septembre célébrant la diversité culturelle.",
-        image: "images/south-africa-heritage.jpg",
+        image: "https://totalrisksa.co.za/wp-content/uploads/2017/09/AdobeStock_72964297-1-scaled.jpeg",
       },
     ],
   },
