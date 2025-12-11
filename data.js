@@ -717,30 +717,30 @@ const countriesData = {
   indonesia: {
     id: "indonesia",
     name: "Indonésie",
-    cardImage: "images/indonesia-card.jpg",
-    heroImage: "images/indonesia-hero.jpg",
+    cardImage: "https://alqaedtravel.com/uploads/hu2iexrnc3zn7awmsyghvj4ezsjk/برنامج%20سياحي%20الى%20جاكرتا%208%20أيام%207%20ليالي%20(1).webp?locale=en",
+    heroImage: "https://alqaedtravel.com/uploads/hu2iexrnc3zn7awmsyghvj4ezsjk/برنامج%20سياحي%20الى%20جاكرتا%208%20أيام%207%20ليالي%20(1).webp?locale=en",
     intro:
       "L’Indonésie mélange rituels insulaires, art du batik et paysages volcaniques.",
     sections: [
       {
         smallTitle: "Wayang kulit",
         text: "Les marionnettes d’ombre racontent des récits épiques.",
-        image: "images/indonesia-wayang.jpg",
+        image: "https://www.theluxurysignature.com/wp-content/uploads/2022/04/5397613899_972d0a7254_k.jpg",
       },
       {
         smallTitle: "Art du batik",
         text: "Les tissus teints à la cire expriment l’identité régionale.",
-        image: "images/indonesia-batik.jpg",
+        image: "https://thumbs.dreamstime.com/b/indonesian-art-9529852.jpg",
       },
       {
         smallTitle: "Récolte du riz",
         text: "Les récoltes et cérémonies communautaires rythment la culture du riz.",
-        image: "images/indonesia-rice.jpg",
+        image: "https://img.antarafoto.com/cache/1200x798/2024/07/24/penurunan-luas-panen-padi-di-indonesia-1cgkz-dom.jpg",
       },
       {
         smallTitle: "Offrandes des temples",
         text: "Des offrandes fleuries décorent maisons et sanctuaires.",
-        image: "images/indonesia-offering.jpg",
+        image: "https://d1bv4heaa2n05k.cloudfront.net/user-images/1476949209537/shutterstock-172145324_main_1476949213826.jpeg",
       },
     ],
   },
@@ -748,20 +748,20 @@ const countriesData = {
   peru: {
     id: "peru",
     name: "Pérou",
-    cardImage: "images/peru-card.jpg",
-    heroImage: "images/peru-hero.jpg",
+    cardImage: "https://thumbs.dreamstime.com/b/colored-rainbow-mountain-panorama-peru-beautiful-near-cusco-nice-view-hole-valley-located-km-south-ausangate-78209323.jpg",
+    heroImage: "https://thumbs.dreamstime.com/b/colored-rainbow-mountain-panorama-peru-beautiful-near-cusco-nice-view-hole-valley-located-km-south-ausangate-78209323.jpg",
     intro:
       "Les traditions péruviennes incluent musique andine, festivals montagnards et cuisine de la pomme de terre.",
     sections: [
       {
         smallTitle: "Inti Raymi",
         text: "Le festival du soleil en juin avec processions inspirées de l’Inca.",
-        image: "images/peru-inti.jpg",
+        image: "https://blog.incarail.com/wp-content/uploads/2024/10/PH-MG_3642.jpg",
       },
       {
         smallTitle: "Ceviche",
         text: "Un plat de poisson mariné, typique des régions côtières.",
-        image: "images/peru-ceviche.jpg",
+        image: "https://www.peruforless.com/images/blog/ceviche-plate.jpeg",
       },
       {
         smallTitle: "Tissage",
@@ -771,7 +771,7 @@ const countriesData = {
       {
         smallTitle: "Élevage d’alpagas",
         text: "Les familles rurales élèvent des alpagas pour leur laine et leur viande.",
-        image: "images/peru-alpaca.jpg",
+        image: "https://bellepaga.com/img/cms/PHOTO4CMS.JPG",
       },
     ],
   },
