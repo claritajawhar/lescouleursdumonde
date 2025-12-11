@@ -779,30 +779,30 @@ const countriesData = {
   argentina: {
     id: "argentina",
     name: "Argentine",
-    cardImage: "images/argentina-card.jpg",
-    heroImage: "images/argentina-hero.jpg",
+    cardImage: "https://mldvwwasb8tu.i.optimole.com/cb:7ZGO.6206b/w:1400/h:933/q:90/f:best/ig:avif/https://travelaway.me/wp-content/uploads/2020/09/iguazu-waterfalls-argentina.jpg",
+    heroImage: "https://mldvwwasb8tu.i.optimole.com/cb:7ZGO.6206b/w:1400/h:933/q:90/f:best/ig:avif/https://travelaway.me/wp-content/uploads/2020/09/iguazu-waterfalls-argentina.jpg",
     intro:
       "La culture argentine est marquée par le tango, le maté et l’art urbain.",
     sections: [
       {
         smallTitle: "Tango",
         text: "Les couples dansent le tango dans les places et milongas.",
-        image: "images/argentina-tango.jpg",
+        image: "https://images.squarespace-cdn.com/content/v1/5d8526e4f73668483f296428/71e9a092-4935-4833-b478-df51ad58fb57/AdobeStock_28563411.jpeg",
       },
       {
         smallTitle: "Partage du maté",
         text: "Le thé maté est partagé entre amis dans une même calebasse.",
-        image: "images/argentina-mate.jpg",
+        image: "https://www.thesdelapagode.com/guide-du-the/wp-content/uploads/2018/01/thé-mate-quelles-differences.jpg",
       },
       {
         smallTitle: "Asado",
         text: "Les barbecues traditionnels sont un rituel du week-end.",
-        image: "images/argentina-asado.jpg",
+        image: "https://www.wineenthusiast.com/wp-content/uploads/2023/05/12_2022_Playing_with_Fire_HERO_Photo_Tara_Donne_Food_Chris_Lanier_Props_Christina_Lane_1920x1280.jpg",
       },
       {
         smallTitle: "Murales de rue",
         text: "Les villes sont décorées de fresques et graffitis colorés.",
-        image: "images/argentina-mural.jpg",
+        image: "https://argentina-voyages-s3.s3.us-east-2.amazonaws.com/wp-content/uploads/2019/03/11154016/IMG_7524.jpg",
       },
     ],
   },
@@ -810,30 +810,30 @@ const countriesData = {
   australia: {
     id: "australia",
     name: "Australie",
-    cardImage: "images/australia-card.jpg",
-    heroImage: "images/australia-hero.jpg",
+    cardImage: "https://static.independent.co.uk/2023/12/06/14/iStock-646880230.jpg",
+    heroImage: "https://static.independent.co.uk/2023/12/06/14/iStock-646880230.jpg",
     intro:
       "La culture australienne valorise la vie en plein air, le surf et les festivals multiculturels.",
     sections: [
       {
         smallTitle: "Barbie",
         text: "Les barbecues extérieurs sont un événement social apprécié.",
-        image: "images/australia-bbq.jpg",
+        image: "https://ux2cms.imgix.net/images/traditional-aussie-barbecue.jpg?w=725&auto=compress,format&blend=https://ux2cms.imgix.net/system-images/gray-overlay-large.png?bs=inherit&balph=0&bm=normal",
       },
       {
         smallTitle: "Culture surf",
         text: "Les villes côtières se réunissent sur les plages pour surfer et pique-niquer.",
-        image: "images/australia-surf.jpg",
+        image: "https://lh3.googleusercontent.com/ci/AL18g_Tiv0h7LbsppkiGYJ3yuevz7-f6KxpEY0a_buJjuwdv788zeLXXb5b-7oxlRpZfXXazaEuiB1g=s1200",
       },
       {
         smallTitle: "Randonnée dans le bush",
         text: "Les promenades et campings dans la nature sont des escapades courantes.",
-        image: "images/australia-bush.jpg",
+        image: "https://city-voyage.com/wp-content/uploads/2024/03/Randonnees-en-Australie.jpg",
       },
       {
         smallTitle: "Saison des festivals",
         text: "Les villes accueillent des festivals de nourriture et musique multiculturels.",
-        image: "images/australia-festival.jpg",
+        image: "https://images.rove.me/w_414,q_85/adyulvorgkcay817ssij/australia-new-years.jpg",
       },
     ],
   },
@@ -841,60 +841,60 @@ const countriesData = {
   nepal: {
     id: "nepal",
     name: "Népal",
-    cardImage: "images/nepal-card.jpg",
-    heroImage: "images/nepal-hero.jpg",
+    cardImage: "https://nepaltraveller.com/images/main/1602412856.sidetrackimagephotohraphy.jpg",
+    heroImage: "https://nepaltraveller.com/images/main/1602412856.sidetrackimagephotohraphy.jpg",
     intro:
       "La culture népalaise est façonnée par les rituels himalayens et les festivals vibrants.",
     sections: [
       {
         smallTitle: "Dashain",
         text: "Le plus long festival avec réunions familiales et cerfs-volants.",
-        image: "images/nepal-dashain.jpg",
+        image: "https://www.magicalnepal.com/wp-content/uploads/2024/12/Dashain-Tika-Jamara.jpg",
       },
       {
         smallTitle: "Drapeaux de prière",
         text: "Des drapeaux colorés flottent sur les toits et sentiers.",
-        image: "images/nepal-flags.jpg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJsBX6Qe2aV-zarBdHVxCSjlhjdFsLuY982A&s",
       },
       {
         smallTitle: "Dal bhat",
         text: "Un repas quotidien composé de riz et lentilles.",
-        image: "images/nepal-dal.jpg",
+        image: "https://abbyshearth.com/wp-content/uploads/2022/04/dal-bhat-tarkari-1.jpg",
       },
       {
         smallTitle: "Treks de l’Everest",
         text: "Le trekking est à la fois pèlerinage et aventure.",
-        image: "images/nepal-trek.jpg",
+        image: "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/74/fd/b3.jpg",
       },
     ],
   },
   russia: {
     id: "russia",
     name: "Russie",
-    cardImage: "images/russia-card.jpg",
-    heroImage: "images/russia-hero.jpg",
+    cardImage: "https://www.flamingotravels.co.in/blog/wp-content/uploads/2021/07/Russia.jpg",
+    heroImage: "https://www.flamingotravels.co.in/blog/wp-content/uploads/2021/07/Russia.jpg",
     intro:
       "La culture russe valorise l’hospitalité, la littérature et les fêtes d’hiver.",
     sections: [
       {
         smallTitle: "Thé au samovar",
         text: "Le thé est préparé dans des samovars décorés pour les invités.",
-        image: "images/russia-tea.jpg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTcooveqfJaOrDG4vtIDEtRsbs2QA-bMKXg&s",
       },
       {
         smallTitle: "Maslenitsa",
         text: "La semaine des crêpes marque la fin de l’hiver avec feux et jeux.",
-        image: "images/russia-maslenitsa.jpg",
+        image: "https://image.ajunews.com/content/image/2025/03/02/20250302115407763574.jpg",
       },
       {
         smallTitle: "Datchas",
         text: "Les cottages d’été accueillent les week-ends en famille.",
-        image: "images/russia-dacha.jpg",
+        image: "https://d36tnp772eyphs.cloudfront.net/blogs/1/2020/05/Russian-dachas-5.jpg",
       },
       {
         smallTitle: "Banya",
         text: "Les bains de vapeur sont un rituel social et de bien-être.",
-        image: "images/russia-banya.jpg",
+        image: "https://www.telegraph.co.uk/content/dam/health-fitness/2021/08/12/TELEMMGLPICT000266920313_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?imwidth=640",
       },
     ],
   },
@@ -902,30 +902,30 @@ const countriesData = {
   philippines: {
     id: "philippines",
     name: "Philippines",
-    cardImage: "images/philippines-card.jpg",
-    heroImage: "images/philippines-hero.jpg",
+    cardImage: "https://handluggageonly.co.uk/wp-content/uploads/2018/12/Hand-Luggage-Only-10-5.jpg",
+    heroImage: "https://handluggageonly.co.uk/wp-content/uploads/2018/12/Hand-Luggage-Only-10-5.jpg",
     intro:
       "La culture philippine est festive, musicale et ancrée dans le bayanihan (esprit communautaire).",
     sections: [
       {
         smallTitle: "Fiesta",
         text: "Les fêtes de village présentent parades, nourriture et musique.",
-        image: "images/philippines-fiesta.jpg",
+        image: "https://images.squarespace-cdn.com/content/v1/615020a166823d0e2ded9b98/cdd15d17-4220-42a7-a491-a2630434579f/sinulog-festival-1.jpg",
       },
       {
         smallTitle: "Jeepneys",
         text: "Les jeepneys colorés sont un symbole du transport quotidien.",
-        image: "images/philippines-jeepney.jpg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoz0w-NQjhrwKjC98hXKMRttEzAfJyMNOS4g&s",
       },
       {
         smallTitle: "Karaoké",
         text: "Chanter entre amis est l’un des passe-temps préférés.",
-        image: "images/philippines-karaoke.jpg",
+        image: "https://images.squarespace-cdn.com/content/v1/615020a166823d0e2ded9b98/968bc75e-0b74-4ad8-9109-21b13757c4b0/iStock-899560372.jpg",
       },
       {
         smallTitle: "Bayanihan",
         text: "Les voisins s’entraident pour déménager ou résoudre des problèmes.",
-        image: "images/philippines-bayanihan.jpg",
+        image: "https://cdn.shopify.com/s/files/1/0796/4021/files/BIR-Bayanihan-A2_large.jpg?v=1558534373",
       },
     ],
   },}
