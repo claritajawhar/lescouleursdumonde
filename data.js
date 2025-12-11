@@ -562,30 +562,30 @@ const countriesData = {
   thailand: {
     id: "thailand",
     name: "Thaïlande",
-    cardImage: "images/thailand-card.jpg",
-    heroImage: "images/thailand-hero.jpg",
+    cardImage: "https://res.cloudinary.com/cdn-connections/image/upload/c_limit,w_3840/f_auto/q_auto:best/v1746008069/Destinations/Asia/Thailand/TOURS/Grand%20Tour%20Thailand/Header_Thailand_Winter?_a=BAVAZGBy0",
+    heroImage: "https://res.cloudinary.com/cdn-connections/image/upload/c_limit,w_3840/f_auto/q_auto:best/v1746008069/Destinations/Asia/Thailand/TOURS/Grand%20Tour%20Thailand/Header_Thailand_Winter?_a=BAVAZGBy0",
     intro:
       "La Thaïlande est connue pour ses festivals de temples, sa cuisine de rue et ses rituels d’eau.",
     sections: [
       {
         smallTitle: "Songkran",
         text: "Le Nouvel An célébré par des jeux d’eau dans les rues.",
-        image: "images/thailand-songkran.jpg",
+        image: "https://media.nomadicmatt.com/2025/songkran1.jpeg",
       },
       {
         smallTitle: "Marchés flottants",
         text: "Les vendeurs proposent fruits et collations depuis leurs bateaux.",
-        image: "images/thailand-market.jpg",
+        image: "https://www.asiakingtravel.fr/cuploads/files/marche-flottant-bangkok-1.jpg",
       },
       {
         smallTitle: "Muay Thaï",
         text: "Les combats traditionnels attirent des foules dans les arènes locales.",
-        image: "images/thailand-muaythai.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Muay_Thai_Fight_Us_Vs_Burma_%2880668065%29.jpeg",
       },
       {
         smallTitle: "Offrandes aux temples",
         text: "Fleurs et encens sont déposés dans les temples bouddhistes.",
-        image: "images/thailand-temple.jpg",
+        image: "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/00/a3/3d.jpg",
       },
     ],
   },
@@ -593,30 +593,30 @@ const countriesData = {
   united_arab_emirates: {
     id: "united_arab_emirates",
     name: "Émirats arabes unis",
-    cardImage: "images/uae-card.jpg",
-    heroImage: "images/uae-hero.jpg",
+    cardImage: "https://t4.ftcdn.net/jpg/00/58/83/29/360_F_58832937_PSVkZstFltpLES4vjCSOMk2aBfBtIktX.jpg",
+    heroImage: "https://t4.ftcdn.net/jpg/00/58/83/29/360_F_58832937_PSVkZstFltpLES4vjCSOMk2aBfBtIktX.jpg",
     intro:
       "La culture des Émirats mêle racines désertiques, plongée perlière et innovation urbaine.",
     sections: [
       {
         smallTitle: "Fauconnerie",
         text: "Un sport patrimonial apprécié et une activité familiale.",
-        image: "images/uae-falcon.jpg",
+        image: "https://petitfute.twic.pics/medias/feg/03/58/035847.jpg?pf=v2&twic=v1/cover=900x506/max=1000",
       },
       {
         smallTitle: "Majlis",
         text: "Des salons coussinés accueillent thé, dattes et conversations.",
-        image: "images/uae-majlis.jpg",
+        image: "https://www.uaebarq.ae/en/wp-content/uploads/2019/09/3195359788953672080.jpg",
       },
       {
         smallTitle: "Plongée aux perles",
         text: "Une tradition historique ayant façonné les communautés côtières.",
-        image: "images/uae-pearl.jpg",
+        image: "https://www.lexpress.fr/resizer/v2/KAJIDB3ZJNDGLJPWB56Q4UQVCQ.jpg?auth=174f282e62ccb94fbfcb5f56cf98183c6c984eb567f9d917314dee4ae5a84a5b&width=1200&height=630&quality=85&smart=true",
       },
       {
         smallTitle: "Fête nationale",
         text: "Décembre illumine les rues avec feux d’artifice et parades.",
-        image: "images/uae-national.jpg",
+        image: "https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/JTWCLKTGPBHZJKULYRBFUYO6AU.jpg",
       },
     ],
   },
@@ -624,30 +624,30 @@ const countriesData = {
   ethiopia: {
     id: "ethiopia",
     name: "Éthiopie",
-    cardImage: "images/ethiopia-card.jpg",
-    heroImage: "images/ethiopia-hero.jpg",
+    cardImage: "https://cdn1.matadornetwork.com/blogs/1/2021/01/Ethiopia-landscape-3-1200x852.jpg",
+    heroImage: "https://cdn1.matadornetwork.com/blogs/1/2021/01/Ethiopia-landscape-3-1200x852.jpg",
     intro:
       "La culture éthiopienne repose sur le café, les marchés et les festivals anciens.",
     sections: [
       {
         smallTitle: "Cérémonie du café",
         text: "Les grains verts sont torréfiés, moulus et préparés pour les invités.",
-        image: "images/ethiopia-coffee.jpg",
+        image: "https://welcomeethiopiatours.com/wp-content/uploads/Ethiopia_Coffee_ceremony.jpg",
       },
       {
         smallTitle: "Timkat",
         text: "La fête de l'Épiphanie avec processions et baptêmes dans les rivières.",
-        image: "images/ethiopia-timkat.jpg",
+        image: "https://www.robertharding.com/blog/wp-content/uploads/2014/01/817-211215.jpg",
       },
       {
         smallTitle: "Repas d’injera",
         text: "Le pain fermenté est partagé depuis de grands plateaux communs.",
-        image: "images/ethiopia-injera.jpg",
+        image: "https://media.istockphoto.com/id/157594139/fr/photo/injera-repas.jpg?s=612x612&w=0&k=20&c=gVuNjJ3Y6-vOy5Vak6NqqMxvFGEPdv0aF7Sp8QXLjKY=",
       },
       {
         smallTitle: "Marchés traditionnels",
         text: "Les marchés en plein air sont centraux dans la vie quotidienne.",
-        image: "images/ethiopia-market.jpg",
+        image: "https://migrationology.smugmug.com/Ethiopia-Blogs/i-Zps9mtR/0/X2/addis-mercato-11-X2.jpg",
       },
     ],
   },
@@ -655,30 +655,30 @@ const countriesData = {
   vietnam: {
     id: "vietnam",
     name: "Vietnam",
-    cardImage: "images/vietnam-card.jpg",
-    heroImage: "images/vietnam-hero.jpg",
+    cardImage: "https://www.asiaodysseytravel.com/images/asia-tours/vietnam-tours/ba-na-hills-700-3.jpg",
+    heroImage: "https://www.asiaodysseytravel.com/images/asia-tours/vietnam-tours/ba-na-hills-700-3.jpg",
     intro:
       "Les traditions vietnamiennes tournent autour de la cuisine de rue, des autels ancestraux et des festivals saisonniers.",
     sections: [
       {
         smallTitle: "Têt",
         text: "Le Nouvel An lunaire marqué par les autels familiaux et les enveloppes rouges.",
-        image: "images/vietnam-tet.jpg",
+        image: "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/92/2024/01/09050009/tet.jpeg",
       },
       {
         smallTitle: "Petit-déjeuner de phở",
         text: "Une soupe matinale servie dans les marchés et stands de rue.",
-        image: "images/vietnam-pho.jpg",
+        image: "https://blog.amica-travel.com/wp-content//uploads/2016/12/petit-dejeuner-vietnam-pho-360degres.jpg",
       },
       {
         smallTitle: "Marionnettes sur l’eau",
         text: "Le théâtre raconte des contes populaires sur des scènes aquatiques.",
-        image: "images/vietnam-puppet.jpg",
+        image: "https://parfumdautomne.fr/wp-content/uploads/2025/08/Marionnettes-sur-leau-1.webp",
       },
       {
         smallTitle: "Balades en cyclo",
         text: "Les cyclo-pousses offrent vues urbaines et histoires locales.",
-        image: "images/vietnam-cyclo.jpg",
+        image: "https://kampatour.com/pic/blog/images/vietnam-cyclo-4.jpg",
       },
     ],
   },
@@ -686,30 +686,30 @@ const countriesData = {
   united_kingdom: {
     id: "united_kingdom",
     name: "Royaume-Uni",
-    cardImage: "images/uk-card.jpg",
-    heroImage: "images/uk-hero.jpg",
+    cardImage: "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2024/01/05101451/David-Ionut-1-1024x683.jpg",
+    heroImage: "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2024/01/05101451/David-Ionut-1-1024x683.jpg",
     intro:
       "La culture britannique mélange thé, humour et parcs publics.",
     sections: [
       {
         smallTitle: "Afternoon tea",
         text: "Le thé accompagné de scones et sandwichs dans les maisons et cafés.",
-        image: "images/uk-tea.jpg",
+        image: "https://www.boars-head-hotel.co.uk/wp-content/uploads/2018/03/hotels-derbyshire-tea-600x400.jpg",
       },
       {
         smallTitle: "Pub quiz",
         text: "Des soirées quiz hebdomadaires dans les pubs locaux.",
-        image: "images/uk-pub.jpg",
+        image: "https://i2-prod.bristolpost.co.uk/article4093307.ece/ALTERNATES/s615/0_Pub-quiz-USEJPG.jpg",
       },
       {
         smallTitle: "Carnaval",
         text: "Le Notting Hill Carnival célèbre l’héritage caribéen.",
-        image: "images/uk-carnival.jpg",
+        image: "https://media.timeout.com/images/105906505/image.jpg",
       },
       {
         smallTitle: "Pique-niques au parc",
         text: "Les parcs accueillent pique-niques et musique estivale.",
-        image: "images/uk-park.jpg",
+        image: "https://london.frenchmorning.com/wp-content/uploads/sites/10/2019/06/piqueniquelondres.jpg",
       },
     ],
   },
